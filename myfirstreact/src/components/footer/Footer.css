@@ -1,0 +1,10 @@
+.footer{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(0,255,235);
+background: linear-gradient(90deg, rgba(0,255,235,1) 0%, rgba(0,121,255,1) 100%);
+    color: whitesmoke;
+}

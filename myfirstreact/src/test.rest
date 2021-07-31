@@ -1,0 +1,8 @@
+###
+GET http://jsonplaceholder.typicode.com/users
+Content-Type: application/json
+
+
+###
+GET http://jsonplaceholder.typicode.com/posts
+Content-Type: application/json

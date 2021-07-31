@@ -1,0 +1,47 @@
+.login{
+    width: 40vw;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    background-color: white;
+    box-shadow: 5px 4px 8px rgba(0, 0, 0, 0.3);
+    margin: auto ;
+    border-radius: 20px;
+    border: 0.2px solid gray;
+}
+
+.logButton{
+    width: 30%;
+    padding: 6px;
+    background-color: tomato;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logButton:hover{
+    background-color: cyan;
+    color: blue;
+    transition-duration: 0.5s;
+}
+
+.regButton{
+    width: 30%;
+    padding: 0.7%;
+    background-color: cyan;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+}
+
+.regButton:hover{
+    background-color: blue;
+    transition-duration: 0.5;
+}

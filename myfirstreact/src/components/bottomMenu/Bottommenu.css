@@ -1,0 +1,36 @@
+.bottom_menu{
+    display: flex;
+}
+
+@media only screen and (max-width : 500px) {
+
+    .bottom_menu{
+        width: 100vw;
+        height: 8vh;
+        background: rgb(0,255,235);
+        background: rgb(0,121,255);
+        background: linear-gradient(90deg, rgba(0,121,255,1) 0%, rgba(0,255,235,1) 100%);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: fixed;
+        top: 92vh;
+        left: 0;
+        color: whitesmoke;
+        z-index: 500;
+        padding: 3%;
+        font-size: 1.5rem;
+    }
+
+    .bottom_menu a{
+        flex: 1;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .bottom_menu_active{
+        color: whitesmoke;
+    }
+}

@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "email": "aldodevv@gmail.com",
+      "password": "$2a$10$yz8UOiKdbpPIb.UNwLxKFel9ko/NleWfy2ziITMOmVIkuJgfuu2/O",
+      "id": 1
+    },
+    {
+      "email": "aldoggg@gmail.com",
+      "password": "$2a$10$vWWcKSG5PAbsIZRwDZUmNu8tRXZIfdAIGUg4OxvpHbnxfuil0ruKe",
+      "id": 2
+    },
+    {
+      "email": "aldodevox@gmail.com",
+      "password": "$2a$10$N0vgzpYScgaFEQpFJ8jn0eQ0d2iMLkBRIfISkJGXVOXLPBtP/B9f6",
+      "password2": "berikuluka",
+      "id": 3
+    },
+    {
+      "email": "aevox@gmail.com",
+      "password": "$2a$10$gvteEamjiH3B33LvbyAMSu/kprJgnA/Yl/LAxaTJjmviQUMbImTti",
+      "password2": "berikuluka",
+      "id": 4
+    },
+    {
+      "email": "aldode3vox@gmail.com",
+      "password": "$2a$10$XGGNoq0jPAcD/HZV8VyZhuOWWKnSurW5LIV/CPLYIgzs2MqHPNP0S",
+      "id": 5
+    },
+    {
+      "email": "pipitfitriani667@gmail.com",
+      "password": "$2a$10$J2PJMTdBi6B6cmFblZmXVuPjSyZ4thyQVsytyM8cFEtma6nEl5RYm",
+      "id": 6
+    },
+    {
+      "email": "pipitfitriani667@gmail.co",
+      "password": "$2a$10$YryuPN/87UIeQFiU2sl96eNlyaiuUm9wKhg.lnNYIFsJLRdlToirK",
+      "id": 7
+    },
+    {
+      "email": "yuyuayu@gmail.com",
+      "password": "$2a$10$KP237PICbvPANG6nD1lijOsyc4ofzeUB9DGvAjdW4rnV.tc/S7Yy2",
+      "id": 8
+    },
+    {
+      "email": "aldoaldo@gmail.com",
+      "password": "$2a$10$33WyLE.ZlUioygvDF0PQQ.z7.umWOTgzpA1o1gCQ5RNCRYOUXbHRm",
+      "id": 9
+    },
+    {
+      "email": "kambinga@gmail.com",
+      "password": "$2a$10$ZReKHvr6WBXmod19hfMzGO1Uq5AvQel810PBNmJH.IoKHCRJ67rda",
+      "id": 10
+    },
+    {
+      "email": "aldop@gmail.com",
+      "password": "$2a$10$qq4UNbXdbnTKnuFy44C7Ku6f9b.arg0F.YKUYCuQyh49PpdxIY83G",
+      "id": 11
+    },
+    {
+      "email": "kambingila@gmail.com",
+      "password": "$2a$10$mF6K4LwqB/L5q5Wu0MmQA.BAbQnipwZYwflf8qoXERIHKEb37nrrK",
+      "id": 12
+    }
+  ],
+  "notes": [
+    {
+      "id": 2,
+      "user_email": "hiyahiya@gmail.com",
+      "title": "ini semua title",
+      "body": "ini note pertama diemail gua"
+    },
+    {
+      "id": 3,
+      "user_email": "halahkambing@gmail.com",
+      "title": "ini semua title",
+      "body": "ini note pertama diemail aku"
+    },
+    {
+      "id": 4,
+      "user_email": "halahkambing@gmail.com",
+      "title": "ini semua title",
+      "body": "ini note pertama diemail aku"
+    },
+    {
+      "id": 5,
+      "user_email": "hiyahiya@gmail.com",
+      "title": "ini semua title",
+      "body": "ini note pertama diemail gua"
+    },
+    {
+      "user_email": "kambingila@gmail.com",
+      "title": "dafsdf",
+      "body": "fgdfgdfg",
+      "id": 7
+    },
+    {
+      "user_email": "kambingila@gmail.com",
+      "title": "sdfsdff",
+      "body": "aldoooo\n",
+      "id": 8
+    },
+    {
+      "user_email": "aldodevox@gmail.com",
+      "title": "aldoaldo",
+      "body": "<strong> ALALALA </strong>",
+      "id": 9
+    }
+  ]
+}

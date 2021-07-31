@@ -1,0 +1,35 @@
+###
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+    "email" : "aldoggg@gmail.com",
+    "password" : "esde"
+}
+
+###
+POST http://localhost:5000/register
+Content-Type: application/json
+
+{
+    "email" : "aldoggg@gmail.com",
+    "password" : "esde"
+}
+
+# GET DATA ALL ITEM FROM NOTES
+###
+GET http://localhost:5000/notes
+Content-Type:  application/json
+
+# GET DATA 
+###
+GET http://localhost:5000/notes?user_email=aldodevox@gmail.com
+Content-Type: application/json
+
+###
+GET http://localhost:5000/notes?id=4
+Content-Type: application/json
+
+###
+GET http://localhost:5000/notes?q=gua
+Content-Type: application/json

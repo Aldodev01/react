@@ -1,0 +1,69 @@
+.noteContainer{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 40px 8%;
+    justify-content: center;
+}
+
+.formModal{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0, 0, 0.5);
+    position: fixed;
+    display: flex;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
+
+.addNote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    gap: 10px;
+}
+
+.addNote input{
+    width: 100%;
+    height: 30px;
+    padding: 0 8px;
+}
+
+.addNote button{
+    width: 100%;
+    height: 30px;
+    border: none;
+    outline: none;
+    background-color: orange;
+    color: white;
+}
+
+.addNote button{
+    background-color: cyan;
+}
+
+.addNote textarea{
+    width: 100%;
+    padding: 5px;
+}
+
+.addIcon{
+    position: fixed;
+    bottom: 20px;
+    right: 0%;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    z-index: 101;
+}
+

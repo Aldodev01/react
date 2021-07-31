@@ -1,0 +1,35 @@
+@import '../../themes/themes';
+
+.navbar{
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 10%;
+    background-color: $second_color;
+    color: white;
+
+    .brand{
+        font-family: $font_display;
+        font-weight: 200;
+        font-size: 2rem;
+    }
+
+    .menu{
+        display: flex;
+        gap: 20px;
+        margin-left: auto;
+        list-style-type: none;
+
+        .menuItem{
+            cursor: pointer;
+        }
+
+        .menuItem:hover{
+            color: $color_primary;
+        }
+    }
+
+}
+

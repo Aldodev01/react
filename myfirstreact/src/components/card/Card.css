@@ -1,0 +1,17 @@
+.card{
+    width: 30%;
+    height: 200px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    transition-duration: 0.3s;
+    transform-style: inherit;
+}
+
+.card:hover{
+    box-shadow: -4px 2px 3px cyan;
+}

@@ -1,0 +1,67 @@
+.navbar {
+    width: 100vw;
+    height: 10vh;
+    background: rgba(0, 234, 255, 0.267);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 2.5px );
+    -webkit-backdrop-filter: blur( 2.5px );
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 8%;
+}
+
+.brand{
+    font-weight: 200;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.userArea{
+    margin-left: auto;
+    display: flex;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.mudalMenu{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 11vh;
+    right: 8%;
+}
+
+
+.btnLogOut{
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    background-color: orangered;
+    color: white;
+    border-radius: 4px;
+    display: flex;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.btnLogOut:hover{
+    background-color: rgb(161, 0, 0);
+}
+/* .navbarMenu{
+    display: flex;
+    width: auto;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.navbarMenu a:hover{
+    font-size: 1.5rem;
+    color: blue;
+} */
